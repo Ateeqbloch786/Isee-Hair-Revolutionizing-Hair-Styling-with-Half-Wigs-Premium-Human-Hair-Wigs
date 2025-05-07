@@ -1,2 +1,1 @@
-
-removed✓✓✓
+payment is not received removed✓✓✓
